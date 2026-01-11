@@ -1,1 +1,3 @@
-# FileTransport
+# File Transport
+
+This program transfers files from one client to another, to be continued...
